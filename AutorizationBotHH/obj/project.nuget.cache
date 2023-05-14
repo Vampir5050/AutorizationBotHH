@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "j3+t7tFeIZLdCZntz+hy82HoAuE0qa5ki52BDJjgaEm9TMTXvCQlZMJ4LO8wq3fFfy7XuZuKB+M+n5AcwAwkXQ==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\С#\\Home DZ\\AutorizationBotHH\\AutorizationBotHH\\AutorizationBotHH.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Александр\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\Александр\\.nuget\\packages\\microsoft.playwright\\1.33.0\\microsoft.playwright.1.33.0.nupkg.sha512",
+    "C:\\Users\\Александр\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Александр\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Александр\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
